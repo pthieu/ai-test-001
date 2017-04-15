@@ -1,0 +1,22 @@
+{
+  "name": "ai-test-001",
+  "version": "0.0.1",
+  "description": "test ai algo with friends",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pthieu/ai-test-001.git"
+  },
+  "author": "Phong Thieu <pthieu@gmail.com> (http://phongt.com)",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/pthieu/ai-test-001/issues"
+  },
+  "homepage": "https://github.com/pthieu/ai-test-001#readme",
+  "dependencies": {
+    "nlp-compromise": "^6.7.4"
+  }
+}
